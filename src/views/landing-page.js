@@ -8,7 +8,7 @@ const LandingPage = (props) => {
   return (
     <div className="landing-page-container">
       <Helmet>
-        <title>Vijually</title>
+        <title>exported project</title>
       </Helmet>
       <div className="landing-page-landing-page">
         <div className="landing-page-frame2">
@@ -18,29 +18,29 @@ const LandingPage = (props) => {
                 <div className="landing-page-frame532">
                   <div className="landing-page-rainbow-fill-dark-category">
                     <img
+                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/b32fedbc-10a6-44d7-a356-fa7b9a2b819d?org_if_sml=1123"
                       alt="Rectangle37291"
-                      src="/playground_assets/rectangle37291-9w0d-200h.png"
                       className="landing-page-rectangle37"
                     />
                     <div className="landing-page-group84">
                       <img
+                        src="/playground_assets/vector293-h7vh.svg"
                         alt="Vector293"
-                        src="/playground_assets/vector293-4n5i.svg"
                         className="landing-page-vector"
                       />
                       <img
+                        src="/playground_assets/vector294-wqum.svg"
                         alt="Vector294"
-                        src="/playground_assets/vector294-la.svg"
                         className="landing-page-vector01"
                       />
                       <img
+                        src="/playground_assets/vector295-wigl.svg"
                         alt="Vector295"
-                        src="/playground_assets/vector295-7kb.svg"
                         className="landing-page-vector02"
                       />
                       <img
+                        src="/playground_assets/vector296-d75n.svg"
                         alt="Vector296"
-                        src="/playground_assets/vector296-fq45.svg"
                         className="landing-page-vector03"
                       />
                     </div>
@@ -122,13 +122,13 @@ const LandingPage = (props) => {
                   <div className="landing-page-iconly-curved-arrow-right">
                     <div className="landing-page-arrow-right">
                       <img
+                        src="/playground_assets/stroke17104-oep.svg"
                         alt="Stroke17104"
-                        src="/playground_assets/stroke17104-230s.svg"
                         className="landing-page-stroke1"
                       />
                       <img
+                        src="/playground_assets/stroke37105-4ep3.svg"
                         alt="Stroke37105"
-                        src="/playground_assets/stroke37105-ni0h.svg"
                         className="landing-page-stroke3"
                       />
                     </div>
@@ -139,8 +139,8 @@ const LandingPage = (props) => {
                 <div className="landing-page-frame647">
                   <div className="landing-page-frame636">
                     <img
+                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/60d3559b-387a-4e10-8271-1b855283b76e?org_if_sml=1347"
                       alt="Group5424202"
-                      src="/playground_assets/group5424202-579-200h.png"
                       className="landing-page-group542"
                     />
                     <span className="landing-page-text029">
@@ -163,8 +163,8 @@ const LandingPage = (props) => {
                   </div>
                   <div className="landing-page-frame637">
                     <img
+                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/68175c4b-f69c-4b02-84e2-3bb214968982?org_if_sml=11093"
                       alt="Group5554202"
-                      src="/playground_assets/group5554202-wsjg-200h.png"
                       className="landing-page-group555"
                     />
                     <span className="landing-page-text036">
@@ -181,8 +181,8 @@ const LandingPage = (props) => {
                 <div className="landing-page-frame646">
                   <div className="landing-page-frame638">
                     <img
+                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/2aabab87-8304-4564-859c-57e0455539fd?org_if_sml=11485"
                       alt="Group5564202"
-                      src="/playground_assets/group5564202-81zu-200h.png"
                       className="landing-page-group556"
                     />
                     <span className="landing-page-text040">
@@ -197,8 +197,8 @@ const LandingPage = (props) => {
                   </div>
                   <div className="landing-page-frame639">
                     <img
+                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/6007a986-9a03-41db-93eb-09530b37203d?org_if_sml=1717"
                       alt="Group5544202"
-                      src="/playground_assets/group5544202-3c8l-200h.png"
                       className="landing-page-group554"
                     />
                     <span className="landing-page-text044">
@@ -218,132 +218,132 @@ const LandingPage = (props) => {
               <div className="landing-page-group641">
                 <div className="landing-page-group294">
                   <img
+                    src="/playground_assets/xmlid76389-rug5.svg"
                     alt="XMLID76389"
-                    src="/playground_assets/xmlid76389-6jk.svg"
                     className="landing-page-x-m-l-i-d763"
                   />
                   <div className="landing-page-group536">
                     <img
+                      src="/playground_assets/xmlid816811-eznt.svg"
                       alt="XMLID816811"
-                      src="/playground_assets/xmlid816811-pwxu.svg"
                       className="landing-page-x-m-l-i-d816"
                     />
                     <img
+                      src="/playground_assets/xmlid819812-7mbe.svg"
                       alt="XMLID819812"
-                      src="/playground_assets/xmlid819812-g1kc.svg"
                       className="landing-page-x-m-l-i-d819"
                     />
                     <img
+                      src="/playground_assets/union813-p56g.svg"
                       alt="Union813"
-                      src="/playground_assets/union813-v4uc.svg"
                       className="landing-page-union"
                     />
                   </div>
                   <img
+                    src="/playground_assets/xmlid806816-8pkb.svg"
                     alt="XMLID806816"
-                    src="/playground_assets/xmlid806816-ww1b.svg"
                     className="landing-page-x-m-l-i-d806"
                   />
                   <img
+                    src="/playground_assets/union817-zxqf.svg"
                     alt="Union817"
-                    src="/playground_assets/union817-9qtq.svg"
                     className="landing-page-union1"
                   />
                   <img
+                    src="/playground_assets/xmlid832820-bp2.svg"
                     alt="XMLID832820"
-                    src="/playground_assets/xmlid832820-2org.svg"
                     className="landing-page-x-m-l-i-d832"
                   />
                   <img
+                    src="/playground_assets/xmlid831821-x09.svg"
                     alt="XMLID831821"
-                    src="/playground_assets/xmlid831821-8izs.svg"
                     className="landing-page-x-m-l-i-d831"
                   />
                   <img
+                    src="/playground_assets/union822-lud.svg"
                     alt="Union822"
-                    src="/playground_assets/union822-tyy8.svg"
                     className="landing-page-union2"
                   />
                 </div>
                 <div className="landing-page-group571">
                   <img
+                    src="/playground_assets/xmlid7638816-1xvg.svg"
                     alt="XMLID7638816"
-                    src="/playground_assets/xmlid7638816-xx9p.svg"
                     className="landing-page-x-m-l-i-d7631"
                   />
                   <img
+                    src="/playground_assets/xmlid8068823-xql2.svg"
                     alt="XMLID8068823"
-                    src="/playground_assets/xmlid8068823-icgr.svg"
                     className="landing-page-x-m-l-i-d8061"
                   />
                   <img
+                    src="/playground_assets/union8824-ep5.svg"
                     alt="Union8824"
-                    src="/playground_assets/union8824-ufs.svg"
                     className="landing-page-union3"
                   />
                 </div>
                 <img
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/34dbba06-5a65-4c95-9229-893f1dc759cf?org_if_sml=11310"
                   alt="SCREEN8285"
-                  src="/playground_assets/screen8285-bnnu-500w.png"
                   className="landing-page-s-c-r-e-e-n"
                 />
                 <div>
                   <img
+                    src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/f4343abc-11c2-4cd1-9bef-209610b12aa0?org_if_sml=122873"
                     alt="Img8803"
-                    src="/playground_assets/img8803-7cb-500w.png"
                     className="landing-page-img"
                   />
                 </div>
                 <img
+                  src="/playground_assets/subtract8286-wmp.svg"
                   alt="Subtract8286"
-                  src="/playground_assets/subtract8286-5gs.svg"
                   className="landing-page-subtract"
                 />
                 <img
+                  src="/playground_assets/path1308287-exf.svg"
                   alt="path1308287"
-                  src="/playground_assets/path1308287-6ybc.svg"
                   className="landing-page-path130"
                 />
                 <img
+                  src="/playground_assets/path1628288-858f.svg"
                   alt="path1628288"
-                  src="/playground_assets/path1628288-0vs.svg"
                   className="landing-page-path162"
                 />
                 <img
+                  src="/playground_assets/path2008291-i5e3.svg"
                   alt="path2008291"
-                  src="/playground_assets/path2008291-dow.svg"
                   className="landing-page-path200"
                 />
                 <img
+                  src="/playground_assets/markethink8813-tm1r.svg"
                   alt="markethink8813"
-                  src="/playground_assets/markethink8813-6kg5.svg"
                   className="landing-page-markethink"
                 />
                 <div className="landing-page-rainbow-fill-dark-category1">
                   <img
+                    src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/cb90a5ba-8b5b-44cb-bf2c-a09582307aff?org_if_sml=1123"
                     alt="Rectangle37I880"
-                    src="/playground_assets/rectangle37i880-dhtd-200h.png"
                     className="landing-page-rectangle371"
                   />
                   <div className="landing-page-group841">
                     <img
+                      src="/playground_assets/vectori880-053j.svg"
                       alt="VectorI880"
-                      src="/playground_assets/vectori880-fidk.svg"
                       className="landing-page-vector04"
                     />
                     <img
+                      src="/playground_assets/vectori880-5w5.svg"
                       alt="VectorI880"
-                      src="/playground_assets/vectori880-7tqc.svg"
                       className="landing-page-vector05"
                     />
                     <img
+                      src="/playground_assets/vectori880-y258.svg"
                       alt="VectorI880"
-                      src="/playground_assets/vectori880-l1wd.svg"
                       className="landing-page-vector06"
                     />
                     <img
+                      src="/playground_assets/vectori880-3pp.svg"
                       alt="VectorI880"
-                      src="/playground_assets/vectori880-s4s.svg"
                       className="landing-page-vector07"
                     />
                   </div>
@@ -351,20 +351,20 @@ const LandingPage = (props) => {
                 <div className="landing-page-group26">
                   <div className="landing-page-group9">
                     <img
+                      src="/playground_assets/squircle8861-h03.svg"
                       alt="Squircle8861"
-                      src="/playground_assets/squircle8861-hf3y.svg"
                       className="landing-page-squircle"
                     />
                   </div>
                   <div>
                     <img
+                      src="/playground_assets/vector8863-54pn.svg"
                       alt="Vector8863"
-                      src="/playground_assets/vector8863-gh8o.svg"
                       className="landing-page-vector08"
                     />
                     <img
+                      src="/playground_assets/vector8864-6lw.svg"
                       alt="Vector8864"
-                      src="/playground_assets/vector8864-6g7s.svg"
                       className="landing-page-vector09"
                     />
                   </div>
@@ -372,21 +372,21 @@ const LandingPage = (props) => {
                 <div className="landing-page-group31">
                   <div className="landing-page-group18">
                     <img
+                      src="/playground_assets/squircle8834-ck4.svg"
                       alt="Squircle8834"
-                      src="/playground_assets/squircle8834-rim.svg"
                       className="landing-page-squircle1"
                     />
                   </div>
                   <div className="landing-page-group11">
                     <img
+                      src="/playground_assets/vector8836-xn3e.svg"
                       alt="Vector8836"
-                      src="/playground_assets/vector8836-ma1c.svg"
                       className="landing-page-vector10"
                     />
                     <div className="landing-page-group">
                       <img
+                        src="/playground_assets/vector8838-kkg.svg"
                         alt="Vector8838"
-                        src="/playground_assets/vector8838-di2a.svg"
                         className="landing-page-vector11"
                       />
                     </div>
@@ -395,8 +395,8 @@ const LandingPage = (props) => {
                 <div className="landing-page-group28">
                   <div className="landing-page-group17">
                     <img
+                      src="/playground_assets/squircle8841-wjp.svg"
                       alt="Squircle8841"
-                      src="/playground_assets/squircle8841-vbl.svg"
                       className="landing-page-squircle2"
                     />
                   </div>
@@ -404,8 +404,8 @@ const LandingPage = (props) => {
                     <div className="landing-page-group1 landing-page-group1">
                       <div className="landing-page-group2 landing-page-group2">
                         <img
+                          src="/playground_assets/vector8845-dsxa.svg"
                           alt="Vector8845"
-                          src="/playground_assets/vector8845-am2b.svg"
                           className="landing-page-vector12"
                         />
                       </div>
@@ -415,35 +415,35 @@ const LandingPage = (props) => {
                 <div className="landing-page-group30">
                   <div className="landing-page-group20">
                     <img
+                      src="/playground_assets/squircle8848-z2bn.svg"
                       alt="Squircle8848"
-                      src="/playground_assets/squircle8848-bul.svg"
                       className="landing-page-squircle3"
                     />
                   </div>
                   <img
+                    src="/playground_assets/vector8849-fbpj.svg"
                     alt="Vector8849"
-                    src="/playground_assets/vector8849-t9g.svg"
                     className="landing-page-vector13"
                   />
                 </div>
                 <div className="landing-page-group15">
                   <img
+                    src="/playground_assets/squircle8856-o9co.svg"
                     alt="Squircle8856"
-                    src="/playground_assets/squircle8856-oww5.svg"
                     className="landing-page-squircle4"
                   />
                 </div>
                 <div className="landing-page-group29">
                   <div className="landing-page-group21 landing-page-group21">
                     <img
+                      src="/playground_assets/squircle8852-ywsq.svg"
                       alt="Squircle8852"
-                      src="/playground_assets/squircle8852-c33k.svg"
                       className="landing-page-squircle5"
                     />
                   </div>
                   <img
+                    src="/playground_assets/vector8853-ue9.svg"
                     alt="Vector8853"
-                    src="/playground_assets/vector8853-r0hj.svg"
                     className="landing-page-vector14"
                   />
                 </div>
@@ -481,8 +481,8 @@ const LandingPage = (props) => {
                     <span>Content Writing</span>
                   </span>
                   <img
+                    src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/4c5076b8-a619-4421-9906-7584c4788b99?org_if_sml=1154"
                     alt="Rectangle3362134"
-                    src="/playground_assets/rectangle3362134-2v4w-200h.png"
                     className="landing-page-rectangle336"
                   />
                 </div>
@@ -495,8 +495,8 @@ const LandingPage = (props) => {
               <div className="landing-page-frame6421">
                 <div className="landing-page-frame643">
                   <img
+                    src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/7894e623-1cfe-4b22-8ee1-e7f57ff565ef?org_if_sml=1166299"
                     alt="Rectangle3332031"
-                    src="/playground_assets/rectangle3332031-p7-400h.png"
                     className="landing-page-rectangle333"
                   />
                   <span className="landing-page-text063">
@@ -517,8 +517,8 @@ const LandingPage = (props) => {
               <div className="landing-page-frame6422">
                 <div className="landing-page-frame6423">
                   <img
+                    src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/af095b38-052f-48d3-a788-61ee526075df?org_if_sml=197345"
                     alt="Rectangle3352131"
-                    src="/playground_assets/rectangle3352131-iciq-300h.png"
                     className="landing-page-rectangle335"
                   />
                   <div className="landing-page-frame632">
@@ -537,15 +537,15 @@ const LandingPage = (props) => {
                   </div>
                 </div>
                 <img
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/ee6aa911-7d88-4d11-877d-775bfc2c40fa?org_if_sml=14039"
                   alt="Group6434202"
-                  src="/playground_assets/group6434202-ipjj-200h.png"
                   className="landing-page-group643"
                 />
               </div>
               <div className="landing-page-frame6424">
                 <img
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/e4741408-f512-476d-831c-0bab20abee9a?org_if_sml=196242"
                   alt="Rectangle3342031"
-                  src="/playground_assets/rectangle3342031-lg89-300h.png"
                   className="landing-page-rectangle334"
                 />
                 <div className="landing-page-frame633">
@@ -563,8 +563,8 @@ const LandingPage = (props) => {
                   </span>
                 </div>
                 <img
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/4579f1f4-3592-413b-9df7-f0224c1d5479?org_if_sml=14016"
                   alt="Group6314202"
-                  src="/playground_assets/group6314202-62zf-200h.png"
                   className="landing-page-group631"
                 />
               </div>
@@ -585,13 +585,13 @@ const LandingPage = (props) => {
               </span>
               <div className="landing-page-frame618">
                 <img
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/e99bc950-0496-4720-9690-9f6c7e3c9621?org_if_sml=11366"
                   alt="RainbowFillDarkCategory4187"
-                  src="/playground_assets/rainbowfilldarkcategory4187-7l7y-200w.png"
                   className="landing-page-rainbow-fill-dark-category2"
                 />
                 <img
+                  src="/playground_assets/markethink2139-5ade.svg"
                   alt="markethink2139"
-                  src="/playground_assets/markethink2139-b69j.svg"
                   className="landing-page-markethink1"
                 />
               </div>
@@ -617,8 +617,8 @@ const LandingPage = (props) => {
             <div className="landing-page-frame654">
               <div className="landing-page-frame651">
                 <img
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/d76b3eb2-9cea-4242-b802-3f168876a873?org_if_sml=15519"
                   alt="Group6244187"
-                  src="/playground_assets/group6244187-06lq-200h.png"
                   className="landing-page-group624"
                 />
                 <span className="landing-page-text087">
@@ -629,18 +629,18 @@ const LandingPage = (props) => {
                 </span>
                 <div className="landing-page-frame30">
                   <img
+                    src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/3b7e7cab-7024-46bf-af1e-40e2c98b9b59?org_if_sml=12164"
                     alt="facebook4187"
-                    src="/playground_assets/facebook4187-06k8-200h.png"
                     className="landing-page-facebook"
                   />
                   <img
+                    src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/51aa2c31-ff86-48c2-ae5b-f6b78d091b1d?org_if_sml=12018"
                     alt="twitter4187"
-                    src="/playground_assets/twitter4187-uf9v-200h.png"
                     className="landing-page-twitter"
                   />
                   <img
+                    src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/301b1cba-0dab-48a4-a1e9-4e834fc704cf/545f87e1-46e1-410b-b64a-7dade707b497?org_if_sml=12344"
                     alt="instagram4187"
-                    src="/playground_assets/instagram4187-ncfo-200h.png"
                     className="landing-page-instagram"
                   />
                 </div>
@@ -704,14 +704,14 @@ const LandingPage = (props) => {
               </div>
             </div>
             <img
+              src="/playground_assets/vector192141-oof.svg"
               alt="Vector192141"
-              src="/playground_assets/vector192141-pd4b.svg"
               className="landing-page-vector19"
             />
             <div className="landing-page-frame625">
               <img
+                src="/playground_assets/antdesigncopyrightcircleoutlined2141-r9qs.svg"
                 alt="antdesigncopyrightcircleoutlined2141"
-                src="/playground_assets/antdesigncopyrightcircleoutlined2141-nys.svg"
                 className="landing-page-antdesigncopyrightcircleoutlined"
               />
               <span className="landing-page-text124">

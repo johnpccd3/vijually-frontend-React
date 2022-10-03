@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg width='48' height='48' viewBox='0 0 48 48' fill='none' xmlns='http://www.w3.org/2000/svg'>
+<g filter='url(#filter0_b_8_834)'>
+<path d='M0.265381 19.7136C0.265381 6.83261 6.82382 0.27417 19.7048 0.27417H28.009C40.8899 0.27417 47.4484 6.83261 47.4484 19.7136V28.0178C47.4484 40.8987 40.8899 47.4572 28.009 47.4572H19.7048C6.82382 47.4572 0.265381 40.8987 0.265381 28.0178V19.7136Z' fill='url(#paint0_linear_8_834)'/>
+<path d='M1.76538 19.7136C1.76538 13.5112 3.3427 9.09685 6.21538 6.22417C9.08806 3.35149 13.5024 1.77417 19.7048 1.77417H28.009C34.2113 1.77417 38.6257 3.35149 41.4984 6.22417C44.3711 9.09685 45.9484 13.5112 45.9484 19.7136V28.0178C45.9484 34.2201 44.3711 38.6345 41.4984 41.5072C38.6257 44.3798 34.2113 45.9572 28.009 45.9572H19.7048C13.5024 45.9572 9.08806 44.3798 6.21538 41.5072C3.3427 38.6345 1.76538 34.2201 1.76538 28.0178V19.7136Z' stroke='url(#paint1_linear_8_834)' stroke-width='3'/>
+</g>
+<defs>
+<filter id='filter0_b_8_834' x='-11.7346' y='-11.7258' width='71.1831' height='71.183' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'>
+<feFlood flood-opacity='0' result='BackgroundImageFix'/>
+<feGaussianBlur in='BackgroundImageFix' stdDeviation='6'/>
+<feComposite in2='SourceAlpha' operator='in' result='effect1_backgroundBlur_8_834'/>
+<feBlend mode='normal' in='SourceGraphic' in2='effect1_backgroundBlur_8_834' result='shape'/>
+</filter>
+<linearGradient id='paint0_linear_8_834' x1='0.265381' y1='0.27417' x2='23.983' y2='23.9918' gradientUnits='userSpaceOnUse'>
+<stop stop-color='#2787F5' stop-opacity='0.6'/>
+<stop offset='1' stop-color='#2787F5' stop-opacity='0.2'/>
+</linearGradient>
+<linearGradient id='paint1_linear_8_834' x1='5.18553' y1='5.19432' x2='42.9067' y2='42.9155' gradientUnits='userSpaceOnUse'>
+<stop stop-color='white' stop-opacity='0.6'/>
+<stop offset='0.395833' stop-color='white' stop-opacity='0'/>
+<stop offset='0.586815' stop-color='#2787F5' stop-opacity='0'/>
+<stop offset='1' stop-color='#2787F5' stop-opacity='0.5'/>
+</linearGradient>
+</defs>
+</svg>
