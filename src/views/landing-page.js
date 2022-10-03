@@ -8,7 +8,7 @@ const LandingPage = (props) => {
   return (
     <div className="landing-page-container">
       <Helmet>
-        <title>exported project</title>
+        <title>Vijually</title>
       </Helmet>
       <div className="landing-page-landing-page">
         <div className="landing-page-frame2">
